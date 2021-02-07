@@ -15,4 +15,13 @@
 <!--        <url-pattern>/hello/*</url-pattern>-->
 <!--    </servlet-mapping>-->
 
+<!--    <servlet>-->
+<!--        <servlet-name>ListaDepartamentos</servlet-name>-->
+<!--        <servlet-class>org.example.controllers.departamento.ListaDepartamentosServlet</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>ListaDepartamentos</servlet-name>-->
+<!--        <url-pattern>/departamentos</url-pattern>-->
+<!--    </servlet-mapping>-->
+
 </web-app>

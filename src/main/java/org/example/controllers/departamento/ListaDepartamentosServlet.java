@@ -4,7 +4,6 @@ import org.example.models.departamento.Departamento;
 import org.example.models.departamento.DepartamentoGateway;
 
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.sql.*;
 import java.util.List;
 

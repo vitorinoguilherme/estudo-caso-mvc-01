@@ -24,4 +24,22 @@
 <!--        <url-pattern>/departamentos</url-pattern>-->
 <!--    </servlet-mapping>-->
 
+<!--    <servlet>-->
+<!--        <servlet-name>ListaFuncionarios</servlet-name>-->
+<!--        <servlet-class>org.example.controllers.funcionario.ListaFuncionariosServlet</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>ListaFuncionarios</servlet-name>-->
+<!--        <url-pattern>/funcionarios</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+<!--    <servlet>-->
+<!--        <servlet-name>ListaProjetos</servlet-name>-->
+<!--        <servlet-class>org.example.controllers.projeto.ListaProjetosServlet</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>ListaProjetos</servlet-name>-->
+<!--        <url-pattern>/projetos</url-pattern>-->
+<!--    </servlet-mapping>-->
+
 </web-app>

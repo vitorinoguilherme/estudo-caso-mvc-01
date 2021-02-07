@@ -52,6 +52,10 @@ public class Funcionario {
         return email;
     }
 
+    public Departamento getDepartamento() {
+        return departamento;
+    }
+
     @Override
     public String toString() {
         return "Nome: " + nome + ", CPF: " + CPF + ", \nEmail: " + email + ", COD_DEPARTAMENTO: " + departamento.codigo + "\n";
